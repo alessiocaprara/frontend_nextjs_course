@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["localhost"],
+    domains: ["localhost", "api.k-app.cloud"],
     deviceSizes: [576, 768, 992, 1200, 1400], // Bootstrap breakpoints
   }
 }
