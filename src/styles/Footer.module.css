@@ -1,0 +1,26 @@
+.footer {
+    padding-top: 2rem;
+    font-size: 0.8rem;
+    padding-bottom: 2rem;
+}
+
+.footer ul {
+    padding: 0;
+}
+
+.footer li {
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+.footer a {
+    color: var(--bs-body-color);
+}
+
+.footer a:hover {
+    color: white;
+}
+
+/**
+ * Checked 01_05_2023 18:35 --> OK
+ */
